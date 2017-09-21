@@ -36,7 +36,7 @@ Cuota de amortización: 90,79€ (redondeado hacia abajo)
 
 Los servidores que se van a analizar son los siguientes:
 
-- [Cloud Next 1 (arsys)](https://www.arsys.es/servidores/cloud): 1vCPU, 1GB memoria RAM, 40GB SSD por 15 €/mes
+- [Cloud Next 1 (arsys)](https://www.arsys.es/servidores/cloud): 1vCPU, 1GB memoria RAM, 40GB SSD por 15 €/mes.
 
 - [Cloud M (1and1)](https://www.1and1.es/servidor-cloud-dinamico#configuracion-del-servidor):
 1vCore, 1GB memoria RAM, 50GB SSD por 0,014 €/hora
