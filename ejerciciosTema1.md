@@ -31,3 +31,35 @@ Cuota de amortización: 90,79€ (redondeado hacia abajo)
 |7     |635,54€                  |0€      |
 
 *(el valor del penúltimo año difiere un poco de la cuota de amortización por el redondeo)*
+
+## Ejercicio 2: Usando las tablas de precios de servicios de alojamiento en Internet y de proveedores de servicios en la nube, Comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
+
+Los servidores que se van a analizar son los siguientes:
+
+- [Cloud Next 1 (arsys)](https://www.arsys.es/servidores/cloud): 1vCPU, 1GB memoria RAM, 40GB SSD por 15 €/mes
+
+- [Cloud M (1and1)](https://www.1and1.es/servidor-cloud-dinamico#configuracion-del-servidor):
+1vCore, 1GB memoria RAM, 50GB SSD por 0,014 €/hora
+
+- Cloud M (1and1) facturación mensual: 1vCore, 1GB memoria RAM, 50GB SSD por 9,99 €/mes
+
+- [t2.micro (amazon)](https://aws.amazon.com/es/ec2/pricing/):
+1vCore, 1GB memoria RAM, almacenamiento EBS por 0,014$/hora
+
+Suponiendo que los servidores se contratan durante un año (8760 horas):
+
+- **Cloud Next 1:** 15 €/mes x 12 meses = 180€
+
+- **Cloud M (facturación mensual):** 9,99 €/mes x 12 meses = 119,88€
+
+Ambos tienen un precio fijo independientemente del uso.
+
+- **Cloud M (facturación por hora y 1% de uso):** 8760 horas x 0,01 x 0,014€/hora = 1,23€
+
+- **t2.micro (1% de uso):** 8760 horas x 0,01 x 0,014$/hora = 1,23$
+
+- **Cloud M (facturación por hora y 10% de uso):** 8760 horas x 0,1 x 0,014€/hora = 12,26€
+
+- **t2.micro (10% de uso):** 8760 horas x 0,1 x 0,014$/hora = 12,26$
+
+Como podemos ver, resulta mucho más económico contratar los servidores por hora cuando no se va a realizar un uso completo de él. En el caso de que se usara el 100% del tiempo, el Cloud M con facturación mensual sería (aproximadamente) 3€ más económico que los servidores contratados por tiempo de uso.
