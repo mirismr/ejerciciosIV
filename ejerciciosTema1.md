@@ -63,3 +63,9 @@ Ambos tienen un precio fijo independientemente del uso.
 - **t2.micro (10% de uso):** 8760 horas x 0,1 x 0,014$/hora = 12,26$
 
 Como podemos ver, resulta mucho más económico contratar los servidores por hora cuando no se va a realizar un uso completo de él. En el caso de que se usara el 100% del tiempo, el Cloud M con facturación mensual sería (aproximadamente) 3€ más económico que los servidores contratados por tiempo de uso.
+
+## Ejercicio 3: En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
+Ejecutando la orden `cat /proc/cpuinfo` encontramos información acerca de nuestro procesador. En concreto, mi procesador es: Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz.
+La salida de la orden es la siguiente:
+![Comando](http://i1249.photobucket.com/albums/hh506/mirismr/comandoflags_zpsxppwi9za.png)
+
