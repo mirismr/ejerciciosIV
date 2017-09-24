@@ -72,8 +72,8 @@ La salida de la orden es la siguiente:
 ## Ejercicio 4
 ### 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden `kvm-ok`.
 Instalamos *cpu-checker* para poder ejecutar la orden. El resultado obtenido es el siguiente:
-![Comando](http://i1249.photobucket.com/albums/hh506/mirismr/IV/1_zpshhynqpt4.png)
+![Comando](img/1.png)
 
 ### 2. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 Tengo instalado de otras asignaturas *Virtualbox*.
-![Virtualbox](http://i1249.photobucket.com/albums/hh506/mirismr/IV/2_zpsdulhujfd.png)
+![Virtualbox](img/2.png)
