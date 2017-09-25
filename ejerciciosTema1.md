@@ -77,3 +77,12 @@ Instalamos *cpu-checker* para poder ejecutar la orden. El resultado obtenido es 
 ### 2. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 Tengo instalado de otras asignaturas *Virtualbox*.
 ![Virtualbox](img/2.png)
+
+## Ejercicio 5: Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
+Nos dirijimos a la [siguiente página](windowsazurepass.com) para usar el cupón.
+
+Introducimos el código correspondiente y aceptamos los términos, tal y como se muestra en las siguientes imágenes:
+![Canjear cupón](img/3.png)
+![Canjear cupón](img/4.png)
+Una vez hecho esto, nos saldra una pantalla de espera en la que se nos informa que se esta procesando la suscripción. El proceso tarda unos minutos. Una vez que está listo, nos informan a través del correo por el cual nos mandan información sobre la suscripción (nombre e ID). En el portal de *Azure* podemos observar el estado de nuestra suscripción, así como caracerísticas de la misma:
+![Suscripción](img/5.png)
