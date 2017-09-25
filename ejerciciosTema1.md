@@ -86,3 +86,7 @@ Introducimos el código correspondiente y aceptamos los términos, tal y como se
 ![Canjear cupón](img/4.png)
 Una vez hecho esto, nos saldra una pantalla de espera en la que se nos informa que se esta procesando la suscripción. El proceso tarda unos minutos. Una vez que está listo, nos informan a través del correo por el cual nos mandan información sobre la suscripción (nombre e ID). En el portal de *Azure* podemos observar el estado de nuestra suscripción, así como caracerísticas de la misma:
 ![Suscripción](img/5.png)
+
+## Ejercicio 6: Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+Nos dirijimos a la página de [Azure DevTest Labs](https://azure.microsoft.com/en-us/services/devtest-lab/), y continuamos como *Free User*. Se nos redirigirá al portal de *Azure* del ejercicio anterior, donde podemos crear los test que necesitemos:
+![Test](img/6.png)
