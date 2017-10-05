@@ -79,7 +79,7 @@ Tengo instalado de otras asignaturas *Virtualbox*.
 ![Virtualbox](img/2.png)
 
 ## Ejercicio 5: Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
-Nos dirijimos a la [siguiente página](windowsazurepass.com) para usar el cupón.
+Nos dirijimos a la [siguiente página](https://www.microsoftazurepass.com/) para usar el cupón.
 
 Introducimos el código correspondiente y aceptamos los términos, tal y como se muestra en las siguientes imágenes:
 ![Canjear cupón](img/3.png)
