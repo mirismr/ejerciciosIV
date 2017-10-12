@@ -71,4 +71,4 @@ class SoloTest():
 
 Y al ejecutar el comando `pocha tests.py`, nos saldrá algo similar a la siguiente figura:
 
-![Tests] (img/7.png)
+![Tests](img/7.png)
