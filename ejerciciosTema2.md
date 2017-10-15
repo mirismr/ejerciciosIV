@@ -32,7 +32,7 @@ def palindromo(cadena):
 Realizado en el ejercicio 1.
 
 
-## Ejercicio 3:
+## Ejercicio 3: Convertir los tests unitarios anteriores con assert a programas de test y ejecutarlos desde mocha, usando descripciones del test y del grupo de test de forma correcta. Si hasta ahora no has subido el código que has venido realizando a GitHub, es el momento de hacerlo, porque lo vas a necesitar un poco más adelante.
 Yo he usado [Pocha](https://github.com/rlgomes/pocha), una versión de *Mocha* para Python. Podemos seguir la instalación en el link anterior.
 Usaré la función *it* para describir los tests.
 
@@ -72,3 +72,28 @@ class SoloTest():
 Y al ejecutar el comando `pocha tests.py`, nos saldrá algo similar a la siguiente figura:
 
 ![Tests](img/7.png)
+
+## Ejercicio 4: Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
+
+Yo he usado *virtualenv*, ya que estoy usando Python para el desarrollo de los ejercicios y el proyecto.
+
+Para instalarlo usamos el comando:
+`sudo pip install virtualenv`
+
+Podemos ver las versioes disponibles introducimos el comando:
+`virtualenv -p /usr/bin/python`
+
+Una vez instalado, podemos crear nuestro entorno virtual con el comando:
+`virtualenv mientorno`
+
+Y lo ponemos en marcha con el comando:
+`. bin/activate`
+
+El proceso se muestra en las siguiente figuras:
+
+![Instalando](img//8.png)
+
+![Entorno](img/9.png)
+
+La guía de uso se puede encontrar en el siguiente [enlace](https://virtualenv.pypa.io/en/latest/userguide/#). 
+ 
