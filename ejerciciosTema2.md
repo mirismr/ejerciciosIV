@@ -97,3 +97,10 @@ El proceso se muestra en las siguiente figuras:
 
 La guía de uso se puede encontrar en el siguiente [enlace](https://virtualenv.pypa.io/en/latest/userguide/#). 
  
+
+## Ejercicio 5: Como ejercicio, algo ligeramente diferente: una web para calificar las empresas en las que hacen prácticas los alumnos.
+
+Para este ejercicio he implementado las funcionalidades correspondientes a mi proyecto personal de la asignatura. Lo podemos ver en el siguiente [enlace](https://github.com/mirismr/proyectoIV17-18)
+
+
+
