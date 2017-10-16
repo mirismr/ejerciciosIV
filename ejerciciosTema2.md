@@ -107,3 +107,16 @@ Para este ejercicio he implementado las funcionalidades correspondientes a mi pr
 El programa inserta ciertos registros en las tablas de la BD y recupera uno de ellos. Como se puede ver en la siguiente imagen, no hay problema de que versión de *Python* usemos:
 
 ![Ejecutando](img/10.png)
+
+## Ejercicio 7: Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente.
+
+Como estoy usando *Python*, hay que configurar el archivo `requirements.txt`. Lo podemos ver en el [repositorio del proyecto](https://github.com/mirismr/proyectoIV17-18).
+
+Para ver las versiones que estamos usando, podemos introducir el comando `pip3 freeze` y, en mi caso, la única dependencia que habría que incluir hasta ahora sería *pocha*, si decido usarlo en el proyecto. 
+
+El archivo quedaría:
+~~~
+"pocha==0.13.0"
+~~~
+
+No obstante, se verá modificado cuando incluyamos diferentes APIs, como por ejemplo la del bot de *Telegram*.
