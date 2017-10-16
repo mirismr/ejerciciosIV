@@ -132,3 +132,6 @@ Para generar la documentación ejecutamos `pycco *.py -p`. Nos saldrá cada fich
 
 Por ejemplo para la primera función:
 ![Ejemplo](img/12.png)
+
+## Ejercicio 9: Haced los dos primeros pasos antes de pasar al tercero.
+Ya que es un apartado interesante en el proyecto, se describirá como documentación extra del proyecto. Podemos verlo en el [siguiente enlace](https://mirismr.github.io/proyectoIV17-18/).
