@@ -102,5 +102,8 @@ La guía de uso se puede encontrar en el siguiente [enlace](https://virtualenv.p
 
 Para este ejercicio he implementado las funcionalidades correspondientes a mi proyecto personal de la asignatura. Lo podemos ver en el siguiente [enlace](https://github.com/mirismr/proyectoIV17-18)
 
+## Ejercicio 6: Ejecutar el programa en diferentes versiones del lenguaje. ¿Funciona en todas ellas?
 
+El programa inserta ciertos registros en las tablas de la BD y recupera uno de ellos. Como se puede ver en la siguiente imagen, no hay problema de que versión de *Python* usemos:
 
+![Ejecutando](img/10.png)
