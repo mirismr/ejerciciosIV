@@ -25,3 +25,7 @@ He realizado este ejercicio en mi proyecto personal. Para ver la documentación 
 ## Ejercicio 4: Crear pruebas para las diferentes rutas de la aplicación.
 
 He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
+
+## Ejercicio 5: Instalar y echar a andar tu primera aplicación en Heroku.
+
+He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
