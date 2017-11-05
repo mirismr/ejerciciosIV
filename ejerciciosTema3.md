@@ -16,3 +16,12 @@ Consultamos la introducción que nos ofrece [*Heroku*](https://devcenter.heroku.
 Para abrir la aplicación solo tenemos que ejecutar el comando `heroku open` y nos mostrará la aplicación en el navegador:
 
 ![App](img/15.png)
+
+## Ejercicio 3: Realizar una app en express (o el lenguaje y marco elegido) que incluya variables como en el caso anterior.
+
+He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
+
+
+## Ejercicio 4: Crear pruebas para las diferentes rutas de la aplicación.
+
+He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
