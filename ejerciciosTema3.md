@@ -29,3 +29,15 @@ He realizado este ejercicio en mi proyecto personal. Para ver la documentación 
 ## Ejercicio 5: Instalar y echar a andar tu primera aplicación en Heroku.
 
 He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
+
+## Ejercicio 6: Usar como base la aplicación de ejemplo de heroku y combinarla con la aplicación en node que se ha creado anteriormente. Probarla de forma local con foreman. Al final de cada modificación, los tests tendrán que funcionar correctamente; cuando se pasen los tests, se puede volver a desplegar en heroku.
+
+He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
+
+## Ejercicio 7: Haz alguna modificación a tu aplicación en node.js para Heroku, sin olvidar añadir los tests para la nueva funcionalidad, y configura el despliegue automático a Heroku usando Snap CI.
+
+He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
+
+## Ejercicio 8: Preparar la aplicación con la que se ha venido trabajando hasta este momento para ejecutarse en un PaaS, el que se haya elegido.
+
+He realizado este ejercicio en mi proyecto personal. Para ver la documentación se puede seguir el [siguiente enlace.](https://github.com/mirismr/proyectoIV17-18)
