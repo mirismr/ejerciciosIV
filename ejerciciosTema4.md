@@ -66,3 +66,9 @@ Y escogemos la ID del contenedor de *Ubuntu*: *3e1b055e7f62*, en mi caso, para h
 Si ahora arrancamos este nuevo contenedor, deberíamos tener *Nginx* instalado, ya que lo hicimos antes:
 
 ![Prueba](img/27.png)
+
+## Ejercicio 7: Crear un Dockerfile para el servicio web que se ha venido desarrollando en el proyecto de la asignatura.
+Se puede encontrar en la [documentación extra](https://mirismr.github.io/proyectoIV17-18/) del proyecto.
+
+## Ejercicio 8: Desplegar un contenedor en alguno de estos servicios, de prueba gratuita o gratuitos.
+Se puede encontrar en la [documentación extra](https://mirismr.github.io/proyectoIV17-18/) del proyecto.
