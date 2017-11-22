@@ -28,4 +28,4 @@ Para poner en marcha cualquiera de los dos, introducimos el comando `lxc-start -
 
 ## Ejercicio 3: Instalar docker
 
-Se puede encontrar en la [documentación extra] (https://mirismr.github.io/proyectoIV17-18/) del proyecto.
+Se puede encontrar en la [documentación extra](https://mirismr.github.io/proyectoIV17-18/) del proyecto.
