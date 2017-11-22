@@ -25,3 +25,7 @@ Le cambiamos la contraseña del root tal y como nos pide cuando acabamos la inst
 Para poner en marcha cualquiera de los dos, introducimos el comando `lxc-start -n cont-ubuntu` o `lxc-start -n una-caja-centos`:
 
 ![Instalando contenedor](img/20.png)
+
+## Ejercicio 3: Instalar docker
+
+Se puede encontrar en la [documentación extra] (https://mirismr.github.io/proyectoIV17-18/) del proyecto.
