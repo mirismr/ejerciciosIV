@@ -29,3 +29,10 @@ Para poner en marcha cualquiera de los dos, introducimos el comando `lxc-start -
 ## Ejercicio 3: Instalar docker
 
 Se puede encontrar en la [documentación extra](https://mirismr.github.io/proyectoIV17-18/) del proyecto.
+
+
+## Ejercicio 4: Instalar a partir de docker una imagen alternativa de Ubuntu y alguna adicional, por ejemplo de CentOS. Buscar e instalar una imagen que incluya MongoDB.
+
+Lo hacemos con los comandos `sudo docker pull ubuntu`,  `sudo docker pull centos` y `sudo docker pull mongo`. Para ver que las imágenes han sido instaladas ejecutamos `sudo docker images`:
+
+![Imágenes Docker](img/21.png)
