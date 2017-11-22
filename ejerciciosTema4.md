@@ -36,3 +36,18 @@ Se puede encontrar en la [documentación extra](https://mirismr.github.io/proyec
 Lo hacemos con los comandos `sudo docker pull ubuntu`,  `sudo docker pull centos` y `sudo docker pull mongo`. Para ver que las imágenes han sido instaladas ejecutamos `sudo docker images`:
 
 ![Imágenes Docker](img/21.png)
+
+## Ejercicio 5: Crear un usuario propio e instalar alguna aplicación tal como nginx en el contenedor creado de esta forma, usando las órdenes propias del sistema operativo con el que se haya inicializado el contenedor.
+
+Nos conectamos a la máquina con `sudo docker run -i -t ubuntu /bin/bash`.
+Una vez dentro, usaremos el comando `adduser` para crear un usuario como es normal en cualquier *Ubuntu*:
+
+![Adduser](img/22.png)
+
+Para instalar *Nginx*, ejecutamos el conocido comando `apt-get install nginx`. Para iniciar *Nginx*, usamos el comando `service nginx start`.
+
+![Nginx](img/23.png)
+
+Podemos instalar *Curl* y ejecutar el comando `curl localhost` para comprobar que funciona:
+
+![Curl](img/24.png)
