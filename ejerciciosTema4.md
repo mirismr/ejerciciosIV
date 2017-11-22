@@ -51,3 +51,18 @@ Para instalar *Nginx*, ejecutamos el conocido comando `apt-get install nginx`. P
 Podemos instalar *Curl* y ejecutar el comando `curl localhost` para comprobar que funciona:
 
 ![Curl](img/24.png)
+
+
+## Ejercicio 6: Crear a partir del contenedor anterior una imagen persistente con commit.
+
+Con el comando `sudo docker ps -a` vemos las ejecuciones de los contenedores:
+
+![IDs](img/25.png)
+
+Y escogemos la ID del contenedor de *Ubuntu*: *3e1b055e7f62*, en mi caso, para hacer un commit con el comando `sudo docker commit 3e1b055e7f62 ubuntu-commit`:
+
+![Commit](img/26.png)
+
+Si ahora arrancamos este nuevo contenedor, deberíamos tener *Nginx* instalado, ya que lo hicimos antes:
+
+![Prueba](img/27.png)
