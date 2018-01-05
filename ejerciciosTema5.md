@@ -62,3 +62,6 @@ Una vez hecho esto, vemos la ip de la máquina virtual y nos conectamos con `ssh
 
 ![Instalacion](img/42.png)
 
+## Ejercicio 5: Crear una máquina virtual ubuntu e instalar en ella alguno de los servicios que estamos usando en el proyecto de la asignatura.
+
+Se ha hecho en el proyecto de la asignatura y está explicado en la [documentación] (https://mirismr.github.io/proyectoIV17-18/)
