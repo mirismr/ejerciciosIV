@@ -47,3 +47,18 @@ Una vez hecho esto, en la configuración de la máquina elegimos la .iso con la 
 Y arrancamos:
 
 ![Instalacion](img/38.png)
+
+## Ejercicio 4: Crear una máquina virtual Linux con 512 megas de RAM y entorno gráfico LXDE a la que se pueda acceder mediante VNC y ssh.
+miri
+En este caso instalaremos *Lubuntu* con *VirtualBox*. Seguimos los pasos del ejercicio anterior e instalamos la máquina.
+
+![Instalacion](img/40.png)
+
+A continuación instalaremos ssh para poder acceder con `sudo apt-get install openssh-server`:
+
+![Instalacion](img/41.png)
+
+Una vez hecho esto, vemos la ip de la máquina virtual y nos conectamos con `ssh usuario@ip`:
+
+![Instalacion](img/42.png)
+
