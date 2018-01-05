@@ -25,3 +25,18 @@ En el directorio donde esté el Vagrantfile hacemos `vagrant up`:
 
 Para conectarnos a la máquina ejecutamos `vagrant ssh`:
 ![Instalacion](img/48.png)
+
+## Ejercicio 5: Crear un script para provisionar nginx o cualquier otro servidor web que pueda ser útil para alguna otra práctica
+
+Por ejemplo, para el Vagrantfile utilizado en la máquina de DAI, el script sería el siguiente:
+
+~~~
+Vagrant.configure("2") do |config|
+
+  config.vm.box = "bento/ubuntu-16.04"
+  config.vm.network "forwarded_port", guest: 5000, host: 8080
+  
+  config.vm.provision "shell",
+        inline: "sudo apt-get install nginx"
+end
+~~~
