@@ -65,3 +65,10 @@ Una vez hecho esto, vemos la ip de la máquina virtual y nos conectamos con `ssh
 ## Ejercicio 5: Crear una máquina virtual ubuntu e instalar en ella alguno de los servicios que estamos usando en el proyecto de la asignatura.
 
 Se ha hecho en el proyecto de la asignatura y está explicado en la [documentación] (https://mirismr.github.io/proyectoIV17-18/)
+
+## Ejercicio 6: Instalar una máquina virtual con Linux Mint para el hipervisor que tengas instalado.
+
+Siguiendo los pasos del ejercicio 3 podemos instalar *Linux Mint* con *VirtualBox*
+
+![Instalacion](img/43.png)
+![Instalacion](img/44.png)
