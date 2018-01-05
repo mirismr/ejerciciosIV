@@ -7,3 +7,7 @@ Instalamos con el comando: `sudo curl -L https://www.opscode.com/chef/install.sh
 
 ![Instalacion](img/45.png)
 ![Instalacion](img/46.png)
+
+## Ejercicio 2: Crear una receta para instalar la aplicación que se viene creando en la asignatura en alguna máquina virtual o servidor en la nube.
+
+Se ha hecho en el proyecto de la asignatura y está explicado en la [documentación] (https://mirismr.github.io/proyectoIV17-18/)
